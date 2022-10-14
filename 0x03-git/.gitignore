@@ -1,2 +1,3 @@
-ignore all files genrated by emacs
+#ignore all files genrated by emacs
 *
+~
